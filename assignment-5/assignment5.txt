@@ -1,0 +1,8 @@
+hi sir,
+here i created an amazon web service with EC2.
+i am using windows 10 platform, in order to deploy my application
+on the server i used putty application for linux authentication.
+i did all my settings in my pc and here is my AWS id trough which
+i deployed my application. please the following link thank you.
+
+ec2-18-216-10-46.us-east-2.compute.amazonaws.com
